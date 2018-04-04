@@ -1,0 +1,5 @@
+commit b7e3f07fb955f320bb694d0cd0f7f896c5ddc818 (HEAD -> lab-branch, origin/mast                 er, master)
+Author: unknown <riste.kostadinov@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:20:29 2018 +0200
+
+    My second commit
